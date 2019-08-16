@@ -19,6 +19,13 @@
     "last 2 versions",
     "not ie <= 8"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dddxxxlll/elemodal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dddxxxlll/elemodal/issues"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
